@@ -15,7 +15,7 @@ function App() {
         height: '100vh',
         display: 'flex',
         justifyContent: 'center',
-        fontSize: 40,
+        fontSize: 39,
         color: '#010101',
       }}
     >
